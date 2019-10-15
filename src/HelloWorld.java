@@ -16,8 +16,7 @@ public class HelloWorld {
 	{
 		int a = 10;
 		
-		int b = a*2;
-		
-		System.out.println("Result :"+b);
+		int c = a*2+10;
+		System.out.println("Result :"+c);
 	}
 }
