@@ -21,5 +21,7 @@ public class HelloWorld {
 		System.out.println("Result :"+b);
 		
 		System.out.println("Hii");
+		int c = a*2+10;
+		System.out.println("Result :"+c);
 	}
 }
