@@ -11,4 +11,13 @@ public class HelloWorld {
 		System.out.println("Programing wings - learning code engineering");
 		
 	}
+	
+	public void print()
+	{
+		int a = 10;
+		
+		int b = a*2;
+		
+		System.out.println("Result :"+b);
+	}
 }
