@@ -19,5 +19,7 @@ public class HelloWorld {
 		int b = a*2;
 		
 		System.out.println("Result :"+b);
+		
+		System.out.println("Hii");
 	}
 }
